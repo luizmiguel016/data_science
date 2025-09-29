@@ -9,7 +9,7 @@ Futuro data scientist
 
 Este repositório será a minha biblioteca de projetos e pesquisas relacionados a dados.
 
-**Exemperiência em: **Python, Power BI, Power Query**.
+Exemperiência em: **Python, Power BI, Power Query**.
 
 **Links:**
 
