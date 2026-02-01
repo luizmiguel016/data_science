@@ -22,8 +22,7 @@ Exemperiência em: **Python, Power BI, Power Query**.
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizsantos016/)
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal: 
+## Projetos: 
 
 * **Análise de dados do Airbnb - Lisboa** https://x.gd/OfbLA
 
