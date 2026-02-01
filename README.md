@@ -23,6 +23,6 @@ Experiência em: **Python, Power BI, Power Query**.
 
 ## Projetos: 
 
-* **Análise de dados do Airbnb - Lisboa** https://x.gd/OfbLA
+* **Análise de dados do Airbnb - Lisboa** - https://shre.ink/analise-lisboa
 
 ---
